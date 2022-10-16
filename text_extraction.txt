@@ -1,0 +1,283 @@
+Python 3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\Niranjana\Desktop\Brain Uninstalled\cloud_lang_translator.py
+Translated(src=ta, dest=en, text=Electoral Roll 2022 522 Tamil Nadu
+
+Assembly constituency number, name and quota
+
+Position : 214 - Thoothukudi (General)
+
+Part no
+
+128
+
+Number, Name and Quota Status of the Parliamentary Constituency comprising the Assembly Constituency:
+
+Tuticorin (General)
+
+D
+
+1. Details of amendment
+
+Revised year 2022
+Qualifying Date 01-01-2022
+Type of Amendment Amendment, 222
+
+Date of publication of the list is 05-01-2022.
+
+Special abbreviation
+
+List Type:
+
+1 - Published on 1221, Special Abridged Edition
+Amendment, 228 with substantive list
+Additions of consolidated arrangement.
+Sublist containing - (sublist | containing
+Deletions and corrections in the base list
+
+U. Part Details and Area for Polling Station
+
+1. Thoothukudi Municipal Corporation, North Pathirakaliamman Temple:
+Street Ward 16
+
+2. Thoothukudi Municipal Corporation, Nayanarvilai West Ward 1
+2. Thoothukudi Municipal Corporation, Nayanarvilai South Ward 16
+4. Nayanarvilai North Ward 16, Thoothukudi Municipal Corporation
+2. Thoothukudi Municipal Corporation, St. John Street Ward 10
+
+S. Overseas voters,
+
+This section contains the following section number and name of the section:
+
+are coded )
+Principal Town (a) Village. Thoothukudi Municipal Corporation
+GNI Zone Thoothukudi Zone 2
+Birga Thoothukudi
+Police Station: Thoothukudi North.
+Circle Thoothukudi.
+District. Tuticorin,
+Postal code: NA
+
+Details of Polling Station.
+
+Polling station number and name. Classification of Polling Station is General
+Corporation Middle School, East Building South Wing (Boys / Girls / General)
+North Pathirakaliamman Temple Street
+
+Polling Station Address Sub Polling Stations
+
+The count is 0
+
+Corporation Middle School East Building South Part North
+Pathirakaliamman Temple Street
+
+4. Number of voters
+
+Number of Net Voters from Start to End
+
+Serial Number Serial Number Male Female Third Gender ] Total.
+
+1 1211 558 651 0 1209
+
+Signature of Electoral Registration Officer
+
+Total Pages 46 - Page 1, pronunciation=[[]], extra_data="{'translat...")
+
+
+Translated(src=ta, dest=en, text=Assembly Constituency No. and Name : Saathoothikudi Part No. : 126
+
+11k2a ௩௧ 600016 17௫
+
+Navy
+Matadama Mu
+Nda
+
+Nakaramayamubaparakaiyamama
+p
+
+85.00: 127
+
+You come
+
+No
+
+Yapapayapapa
+
+(Hi
+[Fig
+Mrs
+
+Forest. e
+Wu
+c) Tax: M R
+
+Age – Rs. Kaul Sa - Revised as per Sub-List List Published Total Pages 46 - Page 2
+Date--05-01 022, pronunciation=[[]], extra_data="{'translat...")
+
+
+Translated(src=en, dest=en, text=சட்டமன்றத்‌ தொகுதி எண்‌ மற்றும்‌ பெயர்‌ : தூத்துக்குடி பாகம்‌ எண்‌ : 128
+பிரிவு எண்‌ மற்றும்‌ பெயர்‌ - 1-தூத்துக்குடி மாநகராட்சி, வடக்கு பத்திரகாளியம்மன்‌ கோவில்‌ தெரு - வார்டு 1௦
+1 8781550201 2 0061227925 3 0௩60703603
+பெயர்‌: ராமர்‌ - பெயர்‌: சீதாலெட்சுமி - பெயர்‌: மேமா -
+தந்தை பெயர்‌: சேர்வாரம்‌ - தந்தை பெயர்‌: ராமசாமி - கணவர்‌ பெயர்‌: பாண்டியன்‌ -
+வீட்டு எண்‌: ௨ ஸ்ட வீட்டு எண்‌: ௨ ஸ்ட வீட்டு எண்‌: 4 ஸ்ட
+வயது: எ பாலினம்‌ : ஆண்‌: அவிய | வயது: 42 பாலினம்‌ : பெண்‌: அவிய | வயது: 6 பாலினம்‌ : பெண்‌: அவிஸ்ட
+4 0௩60703595 5 0061812734 6 0௩60703587
+பெயர்‌: ஆனந்த்‌ பெயர்‌: மெரினா - பெயர்‌: ஜாஷ்வா வினோத்‌ -
+தந்தை பெயர்‌: பாண்டியன்‌ கணவர்‌ பெயர்‌ ஆனந்த்‌ - தந்தை பெயர்‌: பாண்டியன்‌ -
+லிட்டு எண்‌: 4 ஸை ௩ || னடு எண்‌ ஸை ௩ எடு எண்‌: ப
+வயது: 40 பாலினம்‌ : ஆண்‌: அவி || வயது: ௯ பாலினம்‌ : பெண்‌ விலட |] வயது: ௯ பாலினம்‌ : ஆண்‌: அவிய
+ந 0௩61897941 8 0௩61052000 8 0௩60548990
+பெயர்‌: ராஜகனி - பெயர்‌: கோயில்ராஜ்‌ - பெயர்‌: மனோன்மணி -
+கணவர்‌ பெயர்‌: குமாரவேல்‌ - தந்தை பெயர்‌: கோயில்பிச்சை - தந்தை பெயர்‌: குமாரவேல்‌ -
+வீட்டு எண்‌: க ஸை ௩ எடு எண்‌: ஸை ௩ எடு எண்‌: ப
+வயது: ஊ பாலினம்‌ : பெண்‌ விலட |] வயது: ௯ பாலினம்‌ : ஆண்‌: அவி || வயது: உ பாலினம்‌ : பெண்‌: அவிய
+10 0௩61052018 11 0௩60704262 12 0௩61052224.
+பெயர்‌: எஸ்தர்‌ சுதந்திர பாயி - பெயர்‌: மனோசி - பெயர்‌: கலாவதி -
+கணவர்‌ பெயர்‌: கோயில்ராஜ்‌ - கணவர்‌ பெயர்‌: ராஜகனி - கணவர்‌ பெயர்‌: சாலமோன்‌ -
+வீட்டு எண்‌: க ஸை ௩ எடு எண்‌: க ஸை ௩. எடு எண்‌: 45 ப
+வயது: எ பாலினம்‌ : பெண்‌: அவி || வயது: ௪ பாலினம்‌ : பெண்‌: அவல || வயது: உ பாலினம்‌ : பெண்‌: அவிய
+13 0௩60549006. 14 0௩60703975 15 0௩60549022
+பெயர்‌: சுபாஷினி - பெயர்‌: சேர்ம பிச்சிப்பூ - பெயர்‌: தங்கம்மாள்‌ -
+கணவர்‌ பெயர்‌: பூரண சந்திரன்‌ கணவர்‌ பெயர்‌: பால்சுதாகர்‌ - கணவர்‌ பெயர்‌: பால்ராஜ்‌ -
+. எஸ 6 ||ஸடு எண்‌: ௦ எஸ 6 ||ஸடு எண்‌: ப
+வீட்டு எண்‌: 6 அவி || வயது: எ பாலினம்‌ : பெண்‌: அவி || வயது: எ பாலினம்‌ : பெண்‌: அவிய
+வயது: 4 பாலினம்‌ : பெண்‌:
+16 0௩60403550 17 0௩60059212 18 8584983607
+பெயர்‌: சத்யா - பெயர்‌: சிவசக்தி - பெயர்‌: ஜெபாஎபனேசர்‌ -
+கணவர்‌ பெயர்‌: கணேசன்‌ - கணவர்‌ பெயர்‌: கெளரி சங்கர்‌ - கணவர்‌ பெயர்‌: ஜேசுராஜா -
+வீட்டு எண்‌: ஸை ௩. எடு எண்‌: க ஸை ௩ எடு எண்‌: ப
+வயது: ஐ பாலினம்‌ : பெண்‌: அவல || வயது: ௦ பாலினம்‌ : பெண்‌: அவி | | வயது: 4 பாலினம்‌ : பெண்‌: அவிய
+19 0௩61052083 20 (0௩60059196 21 0605498014
+பெயர்‌: மேரி அபியா - பெயர்‌: இந்திரா - பெயர்‌: விஜயா -
+தந்தை பெயர்‌: ராபர்ட்‌ கணவர்‌ பெயர்‌: அலெக்ஸ்‌ - கணவர்‌ பெயர்‌: ராஜவேல்‌ -
+பெல்லால்மின்‌ - ஸை ௩ எடு எண்‌: உ ஸை ௩ எடு எண்‌: உ ப
+வீட்டு எண்‌: 7௦ அவி | | வயது: எ பாலினம்‌ : பெண்‌: அவி || வயது: ௨ பாலினம்‌ : பெண்‌: அவிய
+வயது: ௯ பாலினம்‌ : பெண்‌:
+22 0௩62330512 23 8584881553 24 0௩60059154
+பெயர்‌: அமுதவள்ளி - பெயர்‌: கந்தவேல்‌ ஆனந்த்‌ - பெயர்‌: அனிதா -
+தந்தை பெயர்‌: தந்தை பெயர்‌: தந்தை பெயர்‌: அலெக்ஸ்‌ -
+பாலசுப்பிரமணியம்‌ - 6 6 [பாலசுப்பிரமணியம்‌ ஸ்‌ 6 || எட்டு எண்‌: 6 ஸ்‌
+வீட்டு எண்‌: ௨ அவி | | எட்டு எண்‌: ௨ அலிஸ்‌ || வயது: 97 பாலினம்‌ : பெண்‌: வவிய்ட
+வயது: 4௦ பாலினம்‌ : பெண்‌: வயது: ஐ பாலினம்‌ : ஆண்‌:
+25 0௩60403568 26 0௩60059162 27 0௩61052075
+பெயர்‌: ஜெபா சாமுவேல்‌ - பெயர்‌: வினோத்குமார்‌ - பெயர்‌: முரளி ஈஸ்வரன்‌ -
+தந்தை பெயர்‌: மரிய தந்தை பெயர்‌: அலெக்ஸ்‌ - தந்தை பெயர்‌: ராஜவேல்‌ -
+ராஜேந்திரன்‌ - ரஸ 6. [டு எண்‌: 2 ரஸ 6. [டு எண்‌: 2 ஸ்‌ டி
+வீட்டு எண்‌: ௨ வில || வயது: ௯ பாலினம்‌ : ஆண்‌ வில || வயது: 2 பாலினம்‌ : ஆண்‌ விலட
+வயது: ௭ பாலினம்‌ : ஆண்‌:
+28 0௩62019792 29 0௩60059139 30 0௩60059147
+பெயர்‌: விக்னேஷ்‌ பெயர்‌: லாரன்ஸ்‌ - பெயர்‌: பெலிக்ஸ்‌ -
+தந்தை பெயர்‌: முருகன்‌ தந்தை பெயர்‌: முத்து சாமி - கணவர்‌ பெயர்‌: லாரன்ஸ்‌ -
+லிட்டு எண்‌: ஸை ௩ எடு எண்‌: க ஸை ௩ எடு எண்‌: க ப
+வயது: 2 பாலினம்‌ : ஆண்‌: விலட |] வயது: ௦ பாலினம்‌ : ஆண்‌: அவல | | வயது: ௯ பாலினம்‌ : பெண்‌ அவிய
+வயது : 01.01.2022 ல்‌ 8 -துணை பட்டியலில்‌ உள்ளவாறு திருத்தப்பட்டுள்ளது பட்டியல்‌ வெளியிடப்பட்ட மொத்த பக்கங்கள்‌ 46 - பக்கம்‌ உ
+
+நாள்‌. 02-01-2022.
+
+, pronunciation=சட்டமன்றத்‌ தொகுதி எண்‌ மற்றும்‌ பெயர்‌ : தூத்துக்குடி பாகம்‌ எண்‌ : 128
+பிரிவு எண்‌ மற்றும்‌ பெயர்‌ - 1-தூத்துக்குடி மாநகராட்சி, வடக்கு பத்திரகாளியம்மன்‌ கோவில்‌ தெரு - வார்டு 1௦
+1 8781550201 2 0061227925 3 0௩60703603
+பெயர்‌: ராமர்‌ - பெயர்‌: சீதாலெட்சுமி - பெயர்‌: மேமா -
+தந்தை பெயர்‌: சேர்வாரம்‌ - தந்தை பெயர்‌: ராமசாமி - கணவர்‌ பெயர்‌: பாண்டியன்‌ -
+வீட்டு எண்‌: ௨ ஸ்ட வீட்டு எண்‌: ௨ ஸ்ட வீட்டு எண்‌: 4 ஸ்ட
+வயது: எ பாலினம்‌ : ஆண்‌: அவிய | வயது: 42 பாலினம்‌ : பெண்‌: அவிய | வயது: 6 பாலினம்‌ : பெண்‌: அவிஸ்ட
+4 0௩60703595 5 0061812734 6 0௩60703587
+பெயர்‌: ஆனந்த்‌ பெயர்‌: மெரினா - பெயர்‌: ஜாஷ்வா வினோத்‌ -
+தந்தை பெயர்‌: பாண்டியன்‌ கணவர்‌ பெயர்‌ ஆனந்த்‌ - தந்தை பெயர்‌: பாண்டியன்‌ -
+லிட்டு எண்‌: 4 ஸை ௩ || னடு எண்‌ ஸை ௩ எடு எண்‌: ப
+வயது: 40 பாலினம்‌ : ஆண்‌: அவி || வயது: ௯ பாலினம்‌ : பெண்‌ விலட |] வயது: ௯ பாலினம்‌ : ஆண்‌: அவிய
+ந 0௩61897941 8 0௩61052000 8 0௩60548990
+பெயர்‌: ராஜகனி - பெயர்‌: கோயில்ராஜ்‌ - பெயர்‌: மனோன்மணி -
+கணவர்‌ பெயர்‌: குமாரவேல்‌ - தந்தை பெயர்‌: கோயில்பிச்சை - தந்தை பெயர்‌: குமாரவேல்‌ -
+வீட்டு எண்‌: க ஸை ௩ எடு எண்‌: ஸை ௩ எடு எண்‌: ப
+வயது: ஊ பாலினம்‌ : பெண்‌ விலட |] வயது: ௯ பாலினம்‌ : ஆண்‌: அவி || வயது: உ பாலினம்‌ : பெண்‌: அவிய
+10 0௩61052018 11 0௩60704262 12 0௩61052224.
+பெயர்‌: எஸ்தர்‌ சுதந்திர பாயி - பெயர்‌: மனோசி - பெயர்‌: கலாவதி -
+கணவர்‌ பெயர்‌: கோயில்ராஜ்‌ - கணவர்‌ பெயர்‌: ராஜகனி - கணவர்‌ பெயர்‌: சாலமோன்‌ -
+வீட்டு எண்‌: க ஸை ௩ எடு எண்‌: க ஸை ௩. எடு எண்‌: 45 ப
+வயது: எ பாலினம்‌ : பெண்‌: அவி || வயது: ௪ பாலினம்‌ : பெண்‌: அவல || வயது: உ பாலினம்‌ : பெண்‌: அவிய
+13 0௩60549006. 14 0௩60703975 15 0௩60549022
+பெயர்‌: சுபாஷினி - பெயர்‌: சேர்ம பிச்சிப்பூ - பெயர்‌: தங்கம்மாள்‌ -
+கணவர்‌ பெயர்‌: பூரண சந்திரன்‌ கணவர்‌ பெயர்‌: பால்சுதாகர்‌ - கணவர்‌ பெயர்‌: பால்ராஜ்‌ -
+. எஸ 6 ||ஸடு எண்‌: ௦ எஸ 6 ||ஸடு எண்‌: ப
+வீட்டு எண்‌: 6 அவி || வயது: எ பாலினம்‌ : பெண்‌: அவி || வயது: எ பாலினம்‌ : பெண்‌: அவிய
+வயது: 4 பாலினம்‌ : பெண்‌:
+16 0௩60403550 17 0௩60059212 18 8584983607
+பெயர்‌: சத்யா - பெயர்‌: சிவசக்தி - பெயர்‌: ஜெபாஎபனேசர்‌ -
+கணவர்‌ பெயர்‌: கணேசன்‌ - கணவர்‌ பெயர்‌: கெளரி சங்கர்‌ - கணவர்‌ பெயர்‌: ஜேசுராஜா -
+வீட்டு எண்‌: ஸை ௩. எடு எண்‌: க ஸை ௩ எடு எண்‌: ப
+வயது: ஐ பாலினம்‌ : பெண்‌: அவல || வயது: ௦ பாலினம்‌ : பெண்‌: அவி | | வயது: 4 பாலினம்‌ : பெண்‌: அவிய
+19 0௩61052083 20 (0௩60059196 21 0605498014
+பெயர்‌: மேரி அபியா - பெயர்‌: இந்திரா - பெயர்‌: விஜயா -
+தந்தை பெயர்‌: ராபர்ட்‌ கணவர்‌ பெயர்‌: அலெக்ஸ்‌ - கணவர்‌ பெயர்‌: ராஜவேல்‌ -
+பெல்லால்மின்‌ - ஸை ௩ எடு எண்‌: உ ஸை ௩ எடு எண்‌: உ ப
+வீட்டு எண்‌: 7௦ அவி | | வயது: எ பாலினம்‌ : பெண்‌: அவி || வயது: ௨ பாலினம்‌ : பெண்‌: அவிய
+வயது: ௯ பாலினம்‌ : பெண்‌:
+22 0௩62330512 23 8584881553 24 0௩60059154
+பெயர்‌: அமுதவள்ளி - பெயர்‌: கந்தவேல்‌ ஆனந்த்‌ - பெயர்‌: அனிதா -
+தந்தை பெயர்‌: தந்தை பெயர்‌: தந்தை பெயர்‌: அலெக்ஸ்‌ -
+பாலசுப்பிரமணியம்‌ - 6 6 [பாலசுப்பிரமணியம்‌ ஸ்‌ 6 || எட்டு எண்‌: 6 ஸ்‌
+வீட்டு எண்‌: ௨ அவி | | எட்டு எண்‌: ௨ அலிஸ்‌ || வயது: 97 பாலினம்‌ : பெண்‌: வவிய்ட
+வயது: 4௦ பாலினம்‌ : பெண்‌: வயது: ஐ பாலினம்‌ : ஆண்‌:
+25 0௩60403568 26 0௩60059162 27 0௩61052075
+பெயர்‌: ஜெபா சாமுவேல்‌ - பெயர்‌: வினோத்குமார்‌ - பெயர்‌: முரளி ஈஸ்வரன்‌ -
+தந்தை பெயர்‌: மரிய தந்தை பெயர்‌: அலெக்ஸ்‌ - தந்தை பெயர்‌: ராஜவேல்‌ -
+ராஜேந்திரன்‌ - ரஸ 6. [டு எண்‌: 2 ரஸ 6. [டு எண்‌: 2 ஸ்‌ டி
+வீட்டு எண்‌: ௨ வில || வயது: ௯ பாலினம்‌ : ஆண்‌ வில || வயது: 2 பாலினம்‌ : ஆண்‌ விலட
+வயது: ௭ பாலினம்‌ : ஆண்‌:
+28 0௩62019792 29 0௩60059139 30 0௩60059147
+பெயர்‌: விக்னேஷ்‌ பெயர்‌: லாரன்ஸ்‌ - பெயர்‌: பெலிக்ஸ்‌ -
+தந்தை பெயர்‌: முருகன்‌ தந்தை பெயர்‌: முத்து சாமி - கணவர்‌ பெயர்‌: லாரன்ஸ்‌ -
+லிட்டு எண்‌: ஸை ௩ எடு எண்‌: க ஸை ௩ எடு எண்‌: க ப
+வயது: 2 பாலினம்‌ : ஆண்‌: விலட |] வயது: ௦ பாலினம்‌ : ஆண்‌: அவல | | வயது: ௯ பாலினம்‌ : பெண்‌ அவிய
+வயது : 01.01.2022 ல்‌ 8 -துணை பட்டியலில்‌ உள்ளவாறு திருத்தப்பட்டுள்ளது பட்டியல்‌ வெளியிடப்பட்ட மொத்த பக்கங்கள்‌ 46 - பக்கம்‌ உ
+
+நாள்‌. 02-01-2022.
+
+, extra_data="{'translat...")
+
+
+
+
+
+
+
+
+
+
+
+Traceback (most recent call last):
+  File "C:\Users\Niranjana\Desktop\Brain Uninstalled\cloud_lang_translator.py", line 25, in <module>
+    text_translated = translator.translate(text, dest = 'en')
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\googletrans\client.py", line 210, in translate
+    data, response = self._translate(text, dest, src, kwargs)
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\googletrans\client.py", line 108, in _translate
+    r = self.client.get(url, params=params)
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 755, in get
+    return self.request(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_backends\sync.py", line 139, in open_tcp_stream
+    return SyncSocketStream(sock=sock)
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 135, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "C:\Users\Niranjana\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)
+>>> 
