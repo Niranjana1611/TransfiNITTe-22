@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+</head>
+<body>
+    <center>
+        <h1>Voter Search List</h1><br><br>
+        <form action="/search" method="POST">
+            <table>
+                <td>
+                    <tr>Name: </tr>
+                    <tr><input type="text" id='name' name='name' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>Age: </tr>
+                    <tr><input type="text" id='age' name='age' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>District: </tr>
+                    <tr><input type="text" id='district' name='district' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>City: </tr>
+                    <tr><input type="text" id='city' name='city' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>State: </tr>
+                    <tr><input type="text" id='state' name='state' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>Local Area: </tr>
+                    <tr><input type="text" id='local_area' name='local_area' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>Voter ID: </tr>
+                    <tr><input type="text" id='voter_id' name='voter_id' required></tr>
+                </td><br><br>
+                <td>
+                    <tr>Gender: </tr>
+                    <tr><input type="text" id='gender' name='gender' required></tr>
+                </td><br><br>
+            </table>
+            <input type="submit" value="Serach">
+        </form>
+    </center>
+</body>
+</html>
